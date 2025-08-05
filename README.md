@@ -1,1 +1,1 @@
-Just a readme file
+Add your OPEN API KEY in .env file.

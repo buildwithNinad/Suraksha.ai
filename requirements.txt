@@ -1,0 +1,6 @@
+# List of required tools 
+
+flask
+pyhton3
+beautifulsoup
+
